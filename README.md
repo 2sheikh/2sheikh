@@ -1,7 +1,7 @@
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;" alt="gerald525" /></a>
 </p>
-<h1 align="center">Hi 👋, I'm Muhammad Hashir</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Hashir </h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2sheikh&label=Profile%20views&color=0e75b6&style=flat" alt="2sheikh" /> </p>
