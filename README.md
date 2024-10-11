@@ -1,8 +1,6 @@
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;" alt="gerald525" /></a>
 </p>
-   ### Thanks for visiting :heart:
-  &emsp;
 <h1 align="center">Hi 👋, I'm Muhammad Hashir</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
