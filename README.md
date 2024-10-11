@@ -7,7 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2sheikh&label=Profile%20views&color=0e75b6&style=flat" alt="2sheikh" /> </p>
 
 - 🌱 I’m currently learning **Web & App Development**
- Thanks for visiting :heart:
+
+Thanks for visiting :heart:
   &emsp;
 
 <h3 align="left">Connect with me:</h3>
