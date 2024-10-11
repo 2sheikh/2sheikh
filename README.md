@@ -5,10 +5,10 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2sheikh&label=Profile%20views&color=0e75b6&style=flat" alt="2sheikh" /> </p>
- ### Thanks for visiting :heart:
-  &emsp;
 
 - 🌱 I’m currently learning **Web & App Development**
+ Thanks for visiting :heart:
+  &emsp;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
